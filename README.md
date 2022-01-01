@@ -7,4 +7,5 @@ Doing:
 - Two Sum
 
 
-!(https://d3ui957tjb5bqd.cloudfront.net/uploads/images/4/41/41981.pinterest.jpg?fmt=webp&1482252866)
+!(https://user-images.githubusercontent.com/63725290/147849233-76875214-aedb-4b86-9d70-4656e3cb79b7.png)
+
