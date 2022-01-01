@@ -1,2 +1,6 @@
-# LC
-garbage code
+# Language: Python
+
+Currently Done:
+Readme
+
+Doing:
